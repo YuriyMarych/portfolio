@@ -1,0 +1,129 @@
+/*General*/
+body, * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #2b2a2c;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #2b2a2c;
+}
+
+.btn-hire {
+    border: 2px solid #2b2a2c;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.btn-hire-black {
+    border: 2px solid #2b2a2c;
+    padding: 5px 20px;
+    border-radius: 20px;
+    background: #2b2a2c;
+    color: #ffffff;
+}
+
+
+
+/*Header*/
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.top .logo .logoImg {
+    width: 60px;
+    vertical-align: middle;
+    /*border-radius: 50%;*/
+}
+
+.top .logo .siteName {
+    display: inline;
+    font-size: 20px;
+}
+
+.menu {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.menu li {
+    margin: 0 20px;
+}
+
+.menu ul li:last-child {
+    margin-right: 0;
+}
+
+.menu .menu-item:hover {
+    border-bottom: 2px solid #2b2a2c;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.profile .info {
+    margin-top: 40px;
+}
+
+.profile .info .name span {
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.profile .info .work {
+    margin: 10px 0;
+}
+
+.profile .info .social .fab {
+    font-size: 35px;
+}
+
+.profile .info .social .fab:hover {
+    cursor: pointer;
+}
+
+.profile .info .social .fa-linkedin {
+    color: #007bb6;
+}
+
+.profile .info .social .fa-facebook {
+    color: #3a5898;
+}
+
+.profile .info .social .fa-instagram {
+    color: #13578a;
+}
+
+.profile .info .social .fa-twitter-square {
+    color: #56acef;
+}
+
+.profile .photo img {
+    width: 500px;
+}
+
+.profile .buttons {
+    margin-top: 50px;
+}
