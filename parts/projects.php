@@ -1,7 +1,7 @@
-<div class="projects">
+<div class="projects flex">
     <div class="proj">
 
-        <img src="/assets/images/photo.png" alt="project title" class="bg">
+        <img src="/assets/images/photo.png" alt="project photo" class="bg">
 
         <div class="desc">
             <p class="category">Blog</p>
@@ -15,7 +15,7 @@
     </div>
     <div class="proj">
 
-        <img src="/assets/images/photo.png" alt="project title" class="bg">
+        <img src="/assets/images/photo.png" alt="project photo" class="bg">
 
         <div class="desc">
             <p class="category">Internet-shop</p>
@@ -29,7 +29,7 @@
     </div>
     <div class="proj">
 
-        <img src="/assets/images/photo.png" alt="project title" class="bg">
+        <img src="/assets/images/photo.png" alt="project photo" class="bg">
 
         <div class="desc">
             <p class="category">One-page</p>

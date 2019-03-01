@@ -13,7 +13,7 @@
         </ul>
     </nav>
 </div>
-<div class="profile">
+<div class="profile flex">
     <div class="info">
         <h1 class="name"><span>Hello, I`m </span><br/>Marych Yuriy</h1>
         <p class="work">PHP Developer</p>

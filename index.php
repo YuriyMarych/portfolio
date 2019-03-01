@@ -24,6 +24,8 @@
 
 <section><?php include_once "parts/projects.php" ?></section>
 
+<section><?php include_once "parts/about.php" ?></section>
+
 <footer><?php include_once "parts/footer.php" ?></footer>
 
 </body>

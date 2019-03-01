@@ -21,6 +21,10 @@ a {
     color: #2b2a2c;
 }
 
+.buttons {
+    margin-top: 50px;
+}
+
 .btn-hire {
     border: 2px solid #2b2a2c;
     padding: 5px 20px;
@@ -79,8 +83,6 @@ a {
 }
 
 .profile {
-    display: flex;
-    justify-content: space-between;
     margin-top: 100px;
 }
 
@@ -125,17 +127,10 @@ a {
     width: 500px;
 }
 
-.profile .buttons {
-    margin-top: 50px;
-}
-
-/*Projects page*/
+/*Projects section*/
 
 .projects {
-    display: flex;
-    justify-content: space-between;
     margin-top: 200px;
-    margin-bottom: 200px;
     text-transform: uppercase;
 }
 
@@ -171,4 +166,35 @@ a {
 .proj .date {
     font-weight: bold;
     font-size: 17px;
+}
+
+/*About section*/
+
+.about {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+
+.about .bg {
+    width: 450px;
+    height: 550px;
+    background: #cecece;
+}
+
+.about .info {
+    width: 50%;
+}
+
+.about .info .title {
+    font-size: 44px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    line-height: 80px;
+}
+
+.about .info .title span {
+    font-size: 100px;
+    color: #dedede;
+    letter-spacing: 5px;
 }
