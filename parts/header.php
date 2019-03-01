@@ -1,4 +1,4 @@
-<div class="top">
+<div class="top flex">
     <div class="logo">
         <img src="/assets/images/logo.jpg" alt="logo" class="logoImg">
         <p class="siteName">Marych Yuriy</p>

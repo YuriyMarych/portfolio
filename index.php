@@ -22,7 +22,7 @@
 
 <header><?php include_once "parts/header.php" ?></header>
 
-<?php include_once "parts/content.php" ?>
+<section><?php include_once "parts/projects.php" ?></section>
 
 <footer><?php include_once "parts/footer.php" ?></footer>
 
