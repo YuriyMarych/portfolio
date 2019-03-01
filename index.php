@@ -16,6 +16,10 @@
     <!--    Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
+    <!--    Scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/assets/js/script.js"></script>
+
     <title>Portfolio</title>
 </head>
 <body>
@@ -25,6 +29,8 @@
 <section><?php include_once "parts/projects.php" ?></section>
 
 <section><?php include_once "parts/about.php" ?></section>
+
+<section><?php include_once "parts/blog.php" ?></section>
 
 <footer><?php include_once "parts/footer.php" ?></footer>
 
