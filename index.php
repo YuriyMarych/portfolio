@@ -32,6 +32,8 @@
 
 <section><?php include_once "parts/blog.php" ?></section>
 
+<section><?php include_once "parts/contact.php" ?></section>
+
 <footer><?php include_once "parts/footer.php" ?></footer>
 
 </body>

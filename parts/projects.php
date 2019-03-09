@@ -1,4 +1,4 @@
-<div class="projects flex">
+<div class="projects flex" id="projects">
     <div class="proj">
 
         <img src="/assets/images/photo.png" alt="project photo" class="bg">

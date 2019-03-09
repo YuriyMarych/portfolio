@@ -1,4 +1,4 @@
-<div class="blog">
+<div class="blog" id="blog">
     <h4 class="title">read blog</h4>
     <p class="par">Sometimes I write something</p>
 

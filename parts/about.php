@@ -1,4 +1,4 @@
-<div class="about">
+<div class="about" id="about">
     <img src="" alt="developer's photo" class="bg">
 
     <div class="info">

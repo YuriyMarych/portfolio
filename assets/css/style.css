@@ -265,3 +265,40 @@ a {
     width: 135px;
     margin: 50px auto 0;
 }
+
+/*Contact*/
+
+.contact {
+    justify-content: space-around;
+}
+
+.contact .form {
+    display: flex;
+    flex-flow: column nowrap;
+    margin-top: 13px;
+}
+
+.contact .form .form-item {
+    min-width: 500px;
+    min-height: 40px;
+    margin-bottom: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #676667;
+    text-transform: uppercase;
+}
+
+.contact .form .form-item.message {
+    height: 150px;
+}
+
+.contact .info .title {
+    font-size: 44px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.contact .info .desc {
+    font-size: 20px;
+}
