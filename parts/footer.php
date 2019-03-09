@@ -1,0 +1,1 @@
+<p class="copyright">All rights received &#169;2019</p>

@@ -302,3 +302,11 @@ a {
 .contact .info .desc {
     font-size: 20px;
 }
+
+/*Footer*/
+
+footer .copyright {
+    text-align: center;
+    color: #676667;
+    margin: 100px auto 20px;
+}
