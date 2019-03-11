@@ -1,8 +1,8 @@
-<div class="about" id="about">
+<div class="about" name="about">
     <img src="" alt="developer's photo" class="bg">
 
     <div class="info">
-        <h3 class="title">about me<span> <br/>who i am</span></h3>
+        <h3 class="title">about me<br/><span>who i am</span></h3>
 
         <p class="desc">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque eu enim eget luctus.

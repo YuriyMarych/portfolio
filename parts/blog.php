@@ -1,8 +1,8 @@
-<div class="blog" id="blog">
+<div class="blog flex" id="blog">
     <h4 class="title">read blog</h4>
-    <p class="par">Sometimes I write something</p>
+    <p class="desc">Sometimes I write something</p>
 
-    <div class="posts flex">
+<!--    <div class="posts">-->
 
         <div class="post">
             <div class="date">10 june</div>
@@ -16,7 +16,7 @@
             </p>
 
             <div class="buttons">
-                <a href="javascript:void(0);" class="btn-hire">read more</a>
+                <a href="javascript:void(0);" class="btn btn-hire">read more</a>
             </div>
         </div>
 
@@ -31,7 +31,7 @@
                 elementum consequat.
             </p>
             <div class="buttons">
-                <a href="javascript:void(0);" class="btn-hire">read more</a>
+                <a href="javascript:void(0);" class="btn btn-hire">read more</a>
             </div>
         </div>
 
@@ -47,11 +47,11 @@
             </p>
 
             <div class="buttons">
-                <a href="javascript:void(0);" class="btn-hire">read more</a>
+                <a href="javascript:void(0);" class="btn btn-hire">read more</a>
             </div>
         </div>
 
-    </div>
+<!--    </div>-->
 
     <div class="buttons load-more">
         <a href="javascript:void(0);" class="btn-hire-black">load more</a>

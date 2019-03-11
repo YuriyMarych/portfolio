@@ -1,4 +1,5 @@
 <div class="projects flex" id="projects">
+    <h2 class="title">My projects</h2>
     <div class="proj">
 
         <img src="/assets/images/photo.png" alt="project photo" class="bg">
