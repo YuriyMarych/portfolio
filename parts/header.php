@@ -9,7 +9,6 @@
             <li><a class="menu-item" href="#about">about me</a></li>
             <li><a class="menu-item" href="#blog">blog</a></li>
             <li><a class="menu-item" href="#contact">contact</a></li>
-            <li><a class="btn-hire" href="javascript:void(0);">hire me</a></li>
         </ul>
     </nav>
 </div>
@@ -24,8 +23,7 @@
             <a href="javascript:void(0);"><i class="fab fa-twitter-square"></i></a>
         </div>
         <div class="buttons">
-            <a href="javascript:void(0);" class="btn-hire-black">hire me</a>
-            <a href="javascript:void(0);" class="btn-hire">see my resume</a>
+            <a href="javascript:void(0);" class="btn">see my resume</a>
         </div>
     </div>
 

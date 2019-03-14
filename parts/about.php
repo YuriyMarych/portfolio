@@ -1,5 +1,5 @@
 <div class="about" name="about">
-    <img src="" alt="developer's photo" class="bg">
+    <img src="/assets/images/bg.jpg" alt="developer's photo" class="bg">
 
     <div class="info">
         <h3 class="title">about me<br/><span>who i am</span></h3>
@@ -24,8 +24,7 @@
         </p>
 
         <div class="buttons">
-            <a href="javascript:void(0);" class="btn-hire-black">hire me</a>
-            <a href="javascript:void(0);" class="btn-hire">see my resume</a>
+            <a href="javascript:void(0);" class="btn">see my resume</a>
         </div>
     </div>
 </div>
